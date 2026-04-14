@@ -213,11 +213,3 @@ This exploration helped me move from:
 
 > I no longer see SHM as just a sensor problem,
 > but as a combination of **materials, sensing, data, and intelligence**.
-
----
-
-If you want, I can:
-
-* Turn this into a **GitHub README (with visuals)**
-* Add **diagrams for system architecture**
-* Convert this into a **LinkedIn post or portfolio write-up**
